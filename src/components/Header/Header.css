@@ -1,0 +1,20 @@
+.cabezal{
+    height: 10vh;
+    width: 100vw;
+    background-color: #6364D5;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.mx{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.logo{
+    width: 30%;
+}
+.menunav{
+    width: 70%;
+}
